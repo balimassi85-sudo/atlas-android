@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Atlas Belt Admin</string>
+    <string name="admin_title">ATLAS BELT · ADMIN</string>
+    <string name="refresh">Actualiser</string>
+    <string name="offline">Connexion Internet indisponible.</string>
+</resources>
